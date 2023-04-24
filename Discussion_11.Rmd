@@ -1,0 +1,31 @@
+---
+title: "Discussion_11"
+author: "Pei-Ming Chen"
+date: "2023-04-24"
+output:
+  html_document
+---
+
+### Introduction
+In this task , I analyzed the recommendor system of New York Time , which often scales to precise data sets and produces high quality recommendations for users.  Their approaches in filtering mostly matches each of users or reader’s interests in reading and browsing, and then combines these data into a recommendation list of the user. 
+
+### Scenario Design
+
+a) Who are the target users ?
+All the New York Time subscribers and non-subscribers 
+
+b) What are their key goals ?
+From the users points of view, make sure they get to read the most relevant articles they interest 
+From the  company points of view , the goal is to secure current  subscribers and get more new subscribers. 
+
+c) How can you help them accomplish the goals ?
+Base on the key words search and articles hit rate they can get more precise data. Also users reading history will definitely tell NY Times a clearer image about users interests. 
+
+
+### Reverse Engineering
+NY time use their website search results and data from google.com.  Besides, click rates and the following time they spend on these articles are also considered by them.  Some data can be purchased from other data companies.  Further, they can also check the data of their competitors . NY times also buy articles from other news media.  The share rate of articles on twitter, Facebook , or Instagram is also a direct data. NY time can utilize users internet data to provide them specific articles. 
+
+### Recommendations 
+
+As a long term NY time user, I do like their user interface . While , I do hope they have less simple commercial popup . Instead, they can provide deeper analysis about certain products they like to sell to their readers, like rankings and satisfactions. 
+
